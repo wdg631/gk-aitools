@@ -1,21 +1,50 @@
-# gk-aitools 🤖
-> 聚合各类 AI 能力的小工具集，拿来即用。
+# gk-aitools
 
-## 工具列表
+> AI tools · Content collection · Practical projects
+> All-in-one toolkit, ready to use
 
-| 工具 | 描述 | 状态 |
-|------|------|------|
-| AI 早报生成器 | 每日 AI 科技新闻聚合 | 🔨 开发中 |
-| 内容选题器 | 社媒内容选题 + 发布计划 | 🔨 开发中 |
-| GitHub 资料抓取 | 用户/仓库数据分析 | 🔨 开发中 |
+## Directory Structure
 
-## 快速开始
-
-```bash
-# 克隆
-git clone https://github.com/wdg631/gk-aitools.git
-cd gk-aitools
-
-# 查看工具
-ls tools/
 ```
+gk-aitools/
+├── tools/                  # Tools
+│   ├── ai-tools/           #   AI tool source code
+│   │   ├── github-scraper/  #     GitHub data scraper
+│   │   └── content-creator/  #     Social media content creator
+│   ├── ai-news.py          #   AI news generator
+│   └── content-generator.py  #   Content topic generator
+├── content/                # Content collection
+│   ├── social/             #   Social media copy
+│   ├── ai-news/            #   AI tech news
+│   └── notes/             #   Study notes
+├── projects/               # Other projects
+│   ├── project-template/   #   Project template
+│   └── dev-scripts/        #   Dev scripts collection
+├── docs/                   # Documentation
+├── configs/                # Config files
+└── README.md
+```
+
+## tools/
+
+| Tool | Description |
+|------|------|
+| `github-scraper/` | GitHub user/repo data analysis |
+| `content-creator/` | Social media content generator |
+| `ai-news.py` | AI tech daily news aggregator |
+| `content-generator.py` | Content topic + 7-day plan |
+
+## content/
+
+- `social/` - Social media copy examples
+- `ai-news/` - AI tech news archive
+- `notes/` - Study notes
+
+## projects/
+
+- `project-template/` - Quick-start project template
+- `dev-scripts/` - Common dev scripts
+
+## License
+
+MIT

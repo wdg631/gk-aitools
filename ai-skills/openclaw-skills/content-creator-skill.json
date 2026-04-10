@@ -1,0 +1,12 @@
+{
+  "name": "content-creator-assistant",
+  "version": "1.0.0",
+  "description": "社媒内容创作助手",
+  "triggers": ["写文章", "内容创作", "选题", "发布计划"],
+  "actions": [
+    {"name": "topics", "tool": "llm_generate", "params": {"n": 7, "platform": "{platform}", "niche": "{niche}"}},
+    {"name": "copy", "tool": "llm_generate", "params": {"style": "{style}"}},
+    {"name": "plan", "tool": "llm_generate", "params": {"template": "weekly-plan"}}
+  ],
+  "examples": ["帮我写一周 AI 主题内容", "生成小红书文案"]
+}

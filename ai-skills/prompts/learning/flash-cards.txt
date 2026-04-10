@@ -1,0 +1,4 @@
+Create 20 flashcards for [TOPIC].
+Format: Q: ... / A: ...
+Difficulty: [LEVEL]
+Include mnemonics.

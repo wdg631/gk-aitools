@@ -1,0 +1,8 @@
+Explain this Python code in detail:
+```python
+[YOUR_CODE]
+```
+1. What it does
+2. Line-by-line breakdown
+3. Key concepts explained
+4. Common mistakes

@@ -1,0 +1,4 @@
+A week of social posts for [PLATFORM], niche: [NICHE], theme: [THEME].
+Mon: Hook, Tue: Value, Wed: Story, Thu: Tip,
+Fri: Discussion, Sat: Behind scenes, Sun: Recap.
+Each: text + hashtags + best time.

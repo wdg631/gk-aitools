@@ -1,0 +1,4 @@
+SWOT analysis for [COMPANY/PRODUCT].
+Company: [NAME]
+Competitors: [LIST]
+Market: [MARKET]

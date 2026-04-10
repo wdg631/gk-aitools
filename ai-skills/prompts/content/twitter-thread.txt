@@ -1,0 +1,7 @@
+You are a tech content creator. Write a Twitter thread about [TOPIC].
+- 8-12 tweets, each under 280 characters
+- Strong hook first
+- 2-3 hashtags at end
+- End with call-to-action
+
+Topic: [YOUR TOPIC]

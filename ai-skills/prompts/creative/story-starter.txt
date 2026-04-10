@@ -1,0 +1,5 @@
+Opening 500 words of a [GENRE] story.
+Theme: [THEME]
+Tone: [TONE]
+Character: [BRIEF]
+Start directly with story.

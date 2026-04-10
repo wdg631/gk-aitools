@@ -1,0 +1,12 @@
+{
+  "name": "ai-news-assistant",
+  "version": "1.0.0",
+  "description": "AI 科技新闻助手 - 聚合多源 AI 资讯",
+  "triggers": ["AI 新闻", "今日科技", "AI 动态", "科技早报"],
+  "actions": [
+    {"name": "fetch", "tool": "web_search", "params": {"query": "AI 人工智能 最新新闻 {date}", "count": 10}},
+    {"name": "summarize", "tool": "llm_summarize", "params": {"max_length": 500}},
+    {"name": "format", "tool": "format_markdown", "params": {"template": "daily-news"}}
+  ],
+  "examples": ["AI 新闻早报", "帮我查 AI 动态"]
+}

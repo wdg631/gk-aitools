@@ -1,0 +1,6 @@
+Summarize meeting into:
+1. Attendees
+2. Key Decisions
+3. Action Items (who/what/when)
+4. Open Questions
+5. Next Steps

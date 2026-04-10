@@ -1,0 +1,8 @@
+Bug in [LANGUAGE]:
+```[LANGUAGE]
+[YOUR_CODE]
+```
+Error: [ERROR]
+1. Root cause
+2. Why it happens
+3. Fixed code

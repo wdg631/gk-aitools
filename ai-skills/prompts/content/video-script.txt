@@ -1,0 +1,4 @@
+Video script for [DURATION]-minute [TOPIC] video.
+Format: Hook(10s) -> Intro(30s) -> Main(body) -> Outro(30s)
+Target: [AUDIENCE]
+Style: [EDUCATIONAL / ENTERTAINING]
